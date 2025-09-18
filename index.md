@@ -79,3 +79,10 @@ layout: default
 
 　　说到底，在BVI保持联网，不是为了时刻在线工作，而是为了更自由地探索和分享这片天堂般的美景。选择一张合适的卡，然后就把手机放回口袋，多看看眼前真实的碧海蓝天吧。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [British Virgin Islands eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/british-virgin-islands-data-plans)
